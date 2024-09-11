@@ -40,9 +40,7 @@ You will need the following to complete this tutorial:
 
 Use the following command to clone the repository
 
-	```bash 
 	git clone <GitHub-repo-url>
-	```
 
 - Extract the files from the Source Code directory and push those files into your created git repository.
 
